@@ -18,5 +18,4 @@
 
 ### Github Stats 📈
 ---
-<a href="#"><img src="https://github-readme-stats.vercel.app/api?username=WilliamsEM&show_icons=true&count_private=true&theme=dark" width="350"></a>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
